@@ -1,0 +1,9 @@
+{
+  "name": "smichaelsen/lawyergallery",
+  "type": "typo3-cms-extension",
+  "description": "A gallery",
+  "keywords": ["TYPO3 CMS"],
+  "support": {
+    "issues": "https://github.com/smichaelsen/typo3-lawyergallery/issues"
+  }
+}
