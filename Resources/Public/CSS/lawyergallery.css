@@ -1,0 +1,26 @@
+#content .tx-lawyergallery .thumbnails {
+    overflow: auto;
+    padding: 3px 0 15px
+}
+
+#content .tx-lawyergallery a {
+    display: block;
+    float: left;
+    padding: 0 6px 0 0;
+    width: 16%;
+}
+
+#content .tx-lawyergallery a.active img {
+    outline: 3px solid #18c7ee;
+}
+
+#content .tx-lawyergallery img {
+    display: block;
+    height: auto;
+    padding: 0;
+    width: 100%;
+}
+
+#content .tx-lawyergallery .bigimage {
+    width: 566px;
+}

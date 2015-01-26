@@ -1,0 +1,2 @@
+page.includeCSS.lawyergallery = EXT:lawyergallery/Resources/Public/CSS/lawyergallery.css
+page.includeJS.lawyergallery = EXT:lawyergallery/Resources/Public/JS/lawyergallery.js

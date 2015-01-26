@@ -1,0 +1,14 @@
+{namespace v=FluidTYPO3\Vhs\ViewHelpers}
+
+<div class="tx-lawyergallery">
+    <div class="thumbnails">
+        <v:content.resources.fal record="{data}" as="images">
+            <f:for each="{images}" as="image">
+                <a href="#">
+                    <img src="{f:uri.image(src:'{image.id}',width:'566c',height:'375c')}" class="thumbnail">
+                </a>
+            </f:for>
+        </v:content.resources.fal>
+    </div>
+
+</div>
