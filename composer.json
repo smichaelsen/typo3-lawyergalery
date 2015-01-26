@@ -5,5 +5,9 @@
   "keywords": ["TYPO3 CMS"],
   "support": {
     "issues": "https://github.com/smichaelsen/typo3-lawyergallery/issues"
+  },
+  "require": {
+    "typo3/cms": "~6.2"
+    , "typo3-ter/vhs": "*"
   }
 }
