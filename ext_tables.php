@@ -1,6 +1,5 @@
 <?php
 
-\Smichaelsen\Lawyergallery\Utility\Backend\FluidContentElement::addTyposcriptConstants();
 \Smichaelsen\Lawyergallery\Utility\Backend\FluidContentElement::registerContentElement(
   'Lawyer Gallery',
   '
